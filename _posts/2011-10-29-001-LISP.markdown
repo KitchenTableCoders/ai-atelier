@@ -1,18 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: An Introduction to LISP
-class_date: 2011-10-29
+date: 2011-10-29 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2011-10-29 00:00:00 Z
 upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://kitchentable17-eorg.eventbrite.com/
-fee_list: [["Students", "$80"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$80"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
+
 "Lisp isn't a language, it's a building material." - Alan Kay
 
 There is a programming languages renaissance of sorts happening. This

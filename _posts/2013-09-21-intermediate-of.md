@@ -1,18 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Intermediate Creative Coding with openFrameworks
+date: 2013-09-21 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
 class_date: 2013-09-21 through 2013-10-26
 upcoming: false
 start: 1pm
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/event/5299167954
-fee_list: [["Students", "$300"],
-           ["Freelancers", "$700"],
-           ["Corporate", "$1300"]]
-published: true
+fee_list:
+- - Students
+  - "$300"
+- - Freelancers
+  - "$700"
+- - Corporate
+  - "$1300"
 instructor: Jeff Crouse
 ---
 

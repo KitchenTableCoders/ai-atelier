@@ -1,17 +1,24 @@
 ---
+title: Intro to GLSL (OpenGL + Shaders) using OpenFrameworks w/Special Guest Zach
+  Lieberman
+date: 2011-05-07 00:00:00 Z
+categories:
+- class
 layout: post
-category: class
 style: text
-title: Intro to GLSL (OpenGL + Shaders) using OpenFrameworks w/Special Guest Zach Lieberman
-class_date: 2011-5-7
+class_date: '2011-5-7'
 upcoming: false
 start: 10am
 end: 2pm
 location: Brooklyn, NY
 registration_url: http://kitchentable3.eventbrite.com/
-fee_list: [["Students", "$40"],
-           ["Freelancers", "$80"],
-           ["Everyone Else", "$200"]]
+fee_list:
+- - Students
+  - "$40"
+- - Freelancers
+  - "$80"
+- - Everyone Else
+  - "$200"
 ---
 
 This workshop gives an introduction to modern opengl mechanics, focusing on new parts of opengl such as the frame and vertex buffer objects, and more specifically on GLSL / shader programming, it's history and mechanics.  In order to fully understand these system, we will take a step back and wrap our heads around the opengl pipeline, and how vertex, fragment and geometry shaders open that up to powerful creative manipulation.     The workshop will be taught using the new branch of openframeworks (007), and we will look at tools for experimenting on, developing, debugging and sharing shaders.   By the end, hopefully opening up a new avenue of creative play and experimentation. 

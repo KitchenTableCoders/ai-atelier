@@ -1,18 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Game Changer, Introduction to Unity2D
-class_date: 2014-1-25
+date: 2014-01-25 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: '2014-1-25'
 upcoming: false
 start: 4pm
 end: 8:00pm
 location: Brooklyn, NY
-registration_url: "http://www.eventbrite.com/e/game-changer-introduction-to-unity2d-tickets-9941847333"
-fee_list: [["Students", "$80"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
-published: true
+registration_url: http://www.eventbrite.com/e/game-changer-introduction-to-unity2d-tickets-9941847333
+fee_list:
+- - Students
+  - "$80"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 instructor: Ramsey Nasser
 ---
 

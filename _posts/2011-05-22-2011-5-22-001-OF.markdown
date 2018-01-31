@@ -1,19 +1,23 @@
 ---
-layout: post
-category: class
 title: Intro to Creative Coding with OpenFrameworks
+date: 2011-05-22 00:00:00 Z
+categories:
+- class
+layout: post
 upcoming: false
-class_date: 2011-5-22
-upcoming: false
+class_date: '2011-5-22'
 start: 12pm
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://kitchentable5.eventbrite.com/
-fee_list: [["Students", "$80"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$80"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
-
 
 We'll spend Sunday afternoon building our own drawing software with
 OpenFrameworks.

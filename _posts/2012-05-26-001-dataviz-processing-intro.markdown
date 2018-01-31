@@ -1,18 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: Intro to coding data visualization tools with Processing
-class_date: 2012-05-26
+date: 2012-05-26 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-05-26 00:00:00 Z
 upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://kitchentable33.eventbrite.com/
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
+
 With Amit Pitaru (http://pitaru.com , http://sws.cc , http://rhondaforever.com, htto://plantly.com)
 
 A gentle introduction to the very fundamentals of coding, tailored espeially for data visualization poeple. We'll examine how to load a data file into Processing, parse it into visual elements, and create a simple interface to explore its story.

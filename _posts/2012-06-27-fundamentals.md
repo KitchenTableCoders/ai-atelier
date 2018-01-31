@@ -1,19 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: Fundamentals of Web Applications
-class_date: 2012-07-07
+date: 2012-06-27 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-07-07 00:00:00 Z
 upcoming: false
 start: 1pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://kitchentable36.eventbrite.com/
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
-published: true
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
+
 With Tedb0t
  
 You've dabbled with web pages and static web sites.  You've uploaded

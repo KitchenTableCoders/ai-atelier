@@ -1,18 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: JavaScript Survivor
-class_date: 2013-11-23
+date: 2013-11-23 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2013-11-23 00:00:00 Z
 upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
-registration_url: "https://www.eventbrite.com/event/9226866807"
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Corporate", "$250"]]
-published: true
+registration_url: https://www.eventbrite.com/event/9226866807
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Corporate
+  - "$250"
 instructor: David Nolen
 ---
 

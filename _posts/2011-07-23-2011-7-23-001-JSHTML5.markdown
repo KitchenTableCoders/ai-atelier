@@ -1,17 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Intro to Creative Programming with Javascript and HTML 5 Canvas
-class_date: 2011-7-23
+date: 2011-07-23 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: '2011-7-23'
 upcoming: false
 start: 11 30am
 end: 4 30pm
 location: Brooklyn, NY
 registration_url: http://kitchentable8.eventbrite.com/
-fee_list: [["Students", "$50"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$50"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
 
 What is a variable? What is a for loop? What are functions? What are arrays? This introduction to programming will guide you through these concepts using one of the most interesting and prevalent programming languages today - JavaScript.

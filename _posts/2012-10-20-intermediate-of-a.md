@@ -1,18 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Intermediate Creative Coding with openFrameworks (Section A)
+date: 2012-10-20 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
 class_date: 2012-10-20 through 2012-12-01
 upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/event/4067255270
-fee_list: [["Students", "$300"],
-           ["Freelancers", "$700"],
-           ["Everyone Else", "$1300"]]
-published: true
+fee_list:
+- - Students
+  - "$300"
+- - Freelancers
+  - "$700"
+- - Everyone Else
+  - "$1300"
 ---
 
 **This is a 6 week workshop. Saturdays, noon-4pm, October 20-December

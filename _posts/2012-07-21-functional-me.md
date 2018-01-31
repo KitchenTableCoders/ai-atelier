@@ -1,19 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: Functional Me
-class_date: 2012-07-21
+date: 2012-07-21 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-07-21 00:00:00 Z
 upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/event/3941001642
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
-published: true
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
+
 With the ever growing popularity of JavaScript the term Functional
 Programming is rapidly becoming a household phrase. But what is
 Functional Programming exactly? Isn't it just some mathematical

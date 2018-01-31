@@ -1,16 +1,19 @@
 ---
-layout: event
-category: event
-style: text
 title: Code Salon - David Nolen
-class_date: 2014-3-19
+date: 2014-03-19 00:00:00 Z
+categories:
+- event
+layout: event
+style: text
+class_date: '2014-3-19'
 upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
 registration_url: https://www.eventbrite.com/e/code-salon-david-nolen-tickets-10566102497
-fee_list: [["Ticket", "$15"]]
-published: true
+fee_list:
+- - Ticket
+  - "$15"
 instructor: David Nolen
 ---
 

@@ -1,16 +1,21 @@
 ---
+title: Intro to iOS with OpenFrameworks
+date: 2011-07-02 00:00:00 Z
 layout: post
 style: text
-title: Intro to iOS with OpenFrameworks
-class_date: 2011-7-02
+class_date: '2011-7-02'
 upcoming: false
 start: 12pm
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://kitchentable6.eventbrite.com/
-fee_list: [["Students", "$80"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$80"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
 
 We'll spend Saturday afternoon learning how to use OpenFrameworks (OF)

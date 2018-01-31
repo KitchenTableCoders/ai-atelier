@@ -1,16 +1,19 @@
 ---
-layout: event
-category: event
-style: text
 title: Code Salon - Tomas Petricek
-class_date: 2014-7-07
+date: 2014-07-07 00:00:00 Z
+categories:
+- event
+layout: event
+style: text
+class_date: '2014-7-07'
 upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/e/code-salon-tomas-petricek-tickets-12145157493?aff=eorgf
-fee_list: [["Ticket", "$15"]]
-published: true
+fee_list:
+- - Ticket
+  - "$15"
 instructor: Tomas Petricek
 ---
 

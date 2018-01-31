@@ -1,18 +1,24 @@
 ---
-layout: post
-category: class
-style: text
 title: Designing Printed Circuit Boards with EAGLE
-class_date: 2012-06-23
+date: 2012-06-23 00:00:00 Z
+published: false
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-06-23 00:00:00 Z
 upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://kitchentable35.eventbrite.com/
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
-published: false
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
 
 With Tedb0t

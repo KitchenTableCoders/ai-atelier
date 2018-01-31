@@ -1,17 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Introduction to Node.js (and a taste of functional programming)
-class_date: 2011-4-30
+date: 2011-04-30 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: '2011-4-30'
 upcoming: false
 start: 12pm
 end: 6pm
 location: Brooklyn, NY
 registration_url: http://kitchentable2.eventbrite.com/
-fee_list: [["Students", "$75"],
-           ["Freelancers", "$140"],
-           ["Everyone Else", "$300"]]
+fee_list:
+- - Students
+  - "$75"
+- - Freelancers
+  - "$140"
+- - Everyone Else
+  - "$300"
 ---
 
 Node.js is a young yet promising project for writing server-side JavaScript. In this workshop we'll build a basic Node.js server on our laptops and use WebSockets to build a simple realtime multiuser graphical environment. 

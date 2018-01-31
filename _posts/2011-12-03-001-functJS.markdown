@@ -1,18 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: Fun Functional JavaScript
-class_date: 2011-12-03
+date: 2011-12-03 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2011-12-03 00:00:00 Z
 upcoming: false
 start: 11am
 end: 3pm
 location: Brooklyn, NY
 registration_url: http://kitchentable20.eventbrite.com/
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
-summary: Learn about map, reduce, closures and many other functional programming tricks in the world's most misunderstood programming language.
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
+summary: Learn about map, reduce, closures and many other functional programming tricks
+  in the world's most misunderstood programming language.
 ---
 
 Once maligned by nearly everyone, JavaScript has now amassed an

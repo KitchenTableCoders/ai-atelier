@@ -1,18 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: Kinect Workshop (with OpenFrameworks 0071)
-class_date: 2012-06-16
+date: 2012-06-16 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-06-16 00:00:00 Z
 upcoming: false
 start: 12pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://kitchentable34.eventbrite.com/
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
+
 Instructor: Jeff Crouse <a href="http://www.jeffcrouse.info">www.jeffcrouse.info</a>
 
 This workshop will provide an introduction to creating interactive software with the Kinect, a $140 consumer depth+RGB camera that provides some of the same functionality as professional hardware that can cost many times more.  We will learn skeleton tracking, player masking, and accessing depth measurements. These techniques allow us to create simple apps that make use of whole-body interaction.

@@ -1,18 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: Arduino and NodeJS
-class_date: 2012-05-05
+date: 2012-05-05 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-05-05 00:00:00 Z
 upcoming: false
 start: 1pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://kitchentable31.eventbrite.com/
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
+
 Node.js and Arduino give creative developers the ability to quickly
 prototype and create real-time multi-user experiences.
 

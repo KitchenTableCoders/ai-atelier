@@ -1,15 +1,16 @@
 ---
-layout: post
-category: class
-style: text
 title: Programming User Interfaces for the Web
-class_date: 2013-02-02
+date: 2013-02-02 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2013-02-02 00:00:00 Z
 upcoming: false
 start: 11am
 end: 3pm
 location: Brooklyn, NY
 registration_url: http://ktcfrontend.eventbrite.com
-published: true
 instructor: Tedb0t & David Nolen
 ---
 

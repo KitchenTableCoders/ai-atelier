@@ -1,9 +1,11 @@
 ---
-layout: post
-category: class
-style: text
 title: Basics of Creative Coding, using Processing
-class_date: 2011-4-16
+date: 2011-04-16 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: '2011-4-16'
 upcoming: false
 start: 1pm
 end: 6pm

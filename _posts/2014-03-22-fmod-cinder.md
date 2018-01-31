@@ -1,21 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: 3D Audio with Cinder and FMODEx
-class_date: 2014-03-22 
+date: 2014-03-22 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2014-03-22 00:00:00 Z
 upcoming: false
 start: 2pm
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://3d-audio-cinder.eventbrite.com
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
-published: true
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 instructor: Jeff Crouse
 ---
-
 
 [FMODEx](http://www.fmod.org/) is a low level, high performance c++ audio API [used in many game engines](http://en.wikipedia.org/wiki/FMOD#Games_using_FMOD). It makes it possible to add full 3D audio to your c++ application and supports even the most exotic audio hardware and speaker configurations. It's especially great for installations because you can play dozens of sounds simultaneously and position them in space to create a rich, immersive experience.
 

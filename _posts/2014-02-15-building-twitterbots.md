@@ -1,18 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Building Automated Twitter Accounts
-class_date: 2014-2-15
+date: 2014-02-15 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: '2014-2-15'
 upcoming: false
 start: 2pm
 end: 6pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/e/look-what-i-bot-building-automated-twitter-accounts-tickets-10562898915
-fee_list: [["Students", "$80"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
-published: true
+fee_list:
+- - Students
+  - "$80"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 instructor: Ramsey Nasser
 ---
 

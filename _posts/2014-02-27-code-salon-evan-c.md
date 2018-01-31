@@ -1,16 +1,19 @@
 ---
-layout: event
-category: event
-style: text
 title: Code Salon - Evan Czaplicki
-class_date: 2014-2-27
+date: 2014-02-27 00:00:00 Z
+categories:
+- event
+layout: event
+style: text
+class_date: '2014-2-27'
 upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/e/code-salon-evan-czaplicki-tickets-10384057997
-fee_list: [["Ticket", "$15"]]
-published: true
+fee_list:
+- - Ticket
+  - "$15"
 instructor: Evan Czaplicki
 ---
 

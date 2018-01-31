@@ -1,18 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: The Writing Process
-class_date: 2012-02-25
+date: 2012-02-25 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-02-25 00:00:00 Z
 upcoming: false
 start: 12pm
 end: 3pm
 location: Brooklyn, NY
 registration_url: http://kitchentable26.eventbrite.com/
-fee_list: [["Students", "free"],
-           ["Freelancers", "free"],
-           ["Everyone Else", "free"]]
+fee_list:
+- - Students
+  - free
+- - Freelancers
+  - free
+- - Everyone Else
+  - free
 ---
+
 The construction of computer programs represents an entirely new
 form of writing. While we must sacrifice much of the linguistic
 ambiguity found in traditional writing, we still somehow have to

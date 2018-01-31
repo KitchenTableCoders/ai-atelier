@@ -1,17 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: iOS with OpenFrameworks; Combining OpenGL and Apple's Native UI
-class_date: 2011-7-09
+date: 2011-07-09 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: '2011-7-09'
 upcoming: false
 start: 12pm
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://kitchentable7.eventbrite.com/
-fee_list: [["Students", "$80"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$80"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
 
 This week we'll take a closer look at how we can integrate XCode's

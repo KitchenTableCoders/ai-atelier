@@ -1,18 +1,25 @@
 ---
-layout: post
-category: class
-style: text
 title: Art Without Object
-class_date: 2012-05-19
+date: 2012-05-19 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2012-05-19 00:00:00 Z
 upcoming: false
 start: 1pm
 end: 4pm
 location: Brooklyn, NY
 registration_url: http://kitchentable32.eventbrite.com/
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Everyone Else", "$250"]]
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Everyone Else
+  - "$250"
 ---
+
 With Tims Gardner 
 
 This class is about making expressive user interfaces and graphics without any object-oriented malarky getting in the way. Dynamic functional programming abandons the usual rigid, pre-compiled, sprawling class hierarchies of statically typed, syntactically baroque imperative code. In doing so, it approaches the expressivity of mathematics or poetry. 

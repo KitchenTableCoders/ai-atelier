@@ -1,16 +1,19 @@
 ---
-layout: event
-category: event
-style: text
 title: Code Salon - Lee Byron and Adam Ernst
-class_date: 2014-11-13
+date: 2014-11-13 00:00:00 Z
+categories:
+- event
+layout: event
+style: text
+class_date: 2014-11-13 00:00:00 Z
 upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/e/code-salon-lee-byron-adam-ernst-tickets-14180922521
-fee_list: [["Ticket", "$15"]]
-published: true
+fee_list:
+- - Ticket
+  - "$15"
 instructor: Leey Byron and Adam Ernst
 ---
 

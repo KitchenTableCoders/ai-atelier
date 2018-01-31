@@ -1,18 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Mechanical Turk Workshop
+date: 2013-08-10 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
 class_date: 2013-08-10 - 2013-09-11
 upcoming: false
 start: noon
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/event/6678476503
-fee_list: [["Students", "$100"],
-           ["Freelancers", "$200"],
-           ["Corporate", "$600"]]
-published: true
+fee_list:
+- - Students
+  - "$100"
+- - Freelancers
+  - "$200"
+- - Corporate
+  - "$600"
 instructor: Jeff Crouse
 ---
 

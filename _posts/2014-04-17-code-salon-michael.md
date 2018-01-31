@@ -1,16 +1,19 @@
 ---
-layout: event
-category: event
-style: text
 title: Code Salon - Michael Bernstein
-class_date: 2014-4-17
+date: 2014-04-17 00:00:00 Z
+categories:
+- event
+layout: event
+style: text
+class_date: '2014-4-17'
 upcoming: false
 start: 7pm
 end: 9pm
 location: Brooklyn, NY
 registration_url: https://www.eventbrite.com/e/code-salon-michael-bernstein-tickets-10566100491
-fee_list: [["Ticket", "$15"]]
-published: true
+fee_list:
+- - Ticket
+  - "$15"
 instructor: Michael Bernstein
 ---
 

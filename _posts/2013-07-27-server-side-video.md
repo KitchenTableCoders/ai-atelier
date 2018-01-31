@@ -1,18 +1,23 @@
 ---
-layout: post
-category: class
-style: text
 title: Server-Side Video Editing
-class_date: 2013-07-27
+date: 2013-07-27 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: 2013-07-27 00:00:00 Z
 upcoming: false
 start: 1pm
 end: 5pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/event/6678436383
-fee_list: [["Students", "$60"],
-           ["Freelancers", "$120"],
-           ["Corporate", "$250"]]
-published: true
+fee_list:
+- - Students
+  - "$60"
+- - Freelancers
+  - "$120"
+- - Corporate
+  - "$250"
 instructor: Jeff Crouse
 ---
 

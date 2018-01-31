@@ -1,17 +1,20 @@
 ---
+title: Introducing Code Salon
+date: 2014-02-12 00:00:00 Z
+categories:
+- event
 layout: event
 type: announce
-category: event
 style: text
-title: Introducing Code Salon
-class_date: 2014-2-12
+class_date: '2014-2-12'
 upcoming: false
 start: 7pm
 end: 9:00pm
 location: Brooklyn, NY
-registration_url: "http://www.eventbrite.com/e/game-changer-introduction-to-unity2d-tickets-9941847333"
-fee_list: ["Ticket", "$15"]
-published: true
+registration_url: http://www.eventbrite.com/e/game-changer-introduction-to-unity2d-tickets-9941847333
+fee_list:
+- Ticket
+- "$15"
 instructor: David Nolen
 ---
 

@@ -1,16 +1,19 @@
 ---
-layout: post
-category: class
-style: text
 title: The Immutable Stack
-class_date: 2014-4-12 
+date: 2014-04-12 00:00:00 Z
+categories:
+- class
+layout: post
+style: text
+class_date: '2014-4-12'
 upcoming: false
 start: 10am
 end: 6pm
 location: Brooklyn, NY
 registration_url: http://www.eventbrite.com/e/the-immutable-stack-clojure-datomic-clojurescript-and-om-tickets-10932865495
-fee_list: [["Corporate", "$500"]]
-published: true
+fee_list:
+- - Corporate
+  - "$500"
 instructor: David Nolen and Kovas Boguta
 ---
 
