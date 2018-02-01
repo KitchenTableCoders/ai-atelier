@@ -9,6 +9,7 @@ tags:
 <div id="about-us">
     <h2>Who Are We?</h2>
     <h3>Amit Pitaru</h3>
+    <h4>Adviser</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/amit_pitaru.jpg" />
     <p>
     Amit is a coder and designer. He is currently at Google Creative Lab exploring
@@ -33,6 +34,7 @@ intimate workshops/salons for people who are eager to expand their love for
 coding.
     </p>
     <h3>David Nolen</h3>
+    <h4>Adviser</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/david_nolen.png" />
     <p>
     David Nolen is a software engineer with a background in programming languages,
@@ -45,6 +47,7 @@ clients around the world. With Amit Pitaru he founded the Kitchen Table Coders
 workshop series in Brooklyn. He likes to play Go.
     </p>
     <h3>Kovas Boguta</h3>
+    <h4>Instructor</h4>
     <p>
     Kovas Boguta has spent 15 years in scientific computing, data infrastructure,
 and machine learning roles. At Wolfram Research he helped build Mathematica and
@@ -54,6 +57,7 @@ Kovas helped develop the internal deep learning platform, and is now applying ML
 to recommendations problems. His favorite cellular automaton is Rule 110.
     </p>
     <h3>Evan Casey</h3>
+    <h4>Instructor</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/evan_casey.jpg" />
     <p>
     Evan Casey is an engineer and researcher. He currently works on deep
