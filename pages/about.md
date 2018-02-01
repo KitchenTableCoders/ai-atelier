@@ -65,6 +65,6 @@ reinforcement learning for robotics at Cogitai. Previously he worked in the
 ad-tech industry building large-scale data infrastructure, has done research on
 recommendation systems, and is an alumnus of the Recurse Center. His research
 interests are in reinforcement learning, deep learning, and autonomous systems.
-He blogs at ev.ancasey and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
+He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
     </p>
 </div>
