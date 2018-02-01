@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: Who Are We?
 permalink: /about/
 feature-img: "assets/img/linked-list.png"
 tags:
 ---
 
 <div id="about-us">
-    <h2>Who Are We?</h2>
     <h3>Amit Pitaru</h3>
     <h4>Adviser</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/amit_pitaru.jpg" />
