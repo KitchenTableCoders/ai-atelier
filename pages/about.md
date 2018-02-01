@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who Are We?
+title: About
 permalink: /about/
 feature-img: "assets/img/linked-list.png"
 tags:
