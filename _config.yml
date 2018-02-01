@@ -17,7 +17,7 @@ theme_settings:
   header_text: > #two or three lines to describe your site
   header_text_feature_image: none # assets/img/linked-list.png
   footer_text: >
-   <img src="{{ site.baseurl }}/assets/img/ktc-logo.png" alt="ktc logo" /><br /><a href="http://kitchentablecoders.com/">Kitchen Table Coders</a> is a collective of creative technologists. We host small workshops focusing on intermediate to advanced topics in programming.
+   <img src="/ai-atelier/assets/img/ktc-logo.png" alt="ktc logo" /><br /><a href="http://kitchentablecoders.com/">Kitchen Table Coders</a> is a collective of creative technologists. We host small workshops focusing on intermediate to advanced topics in programming.
 
   # Icons
   rss: true
