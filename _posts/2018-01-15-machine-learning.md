@@ -2,13 +2,13 @@
 layout: post
 category: class
 style: text
-title: Machine Learning
+title: Applied Deep Learning
 class_date: 2018-03-01
 upcoming: true
 start: 9am
-end: 4pm
+end: 5pm
 location: Brooklyn, NY
-registration_url: https://eventbrite.com/event/17085173213/
+registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-42720051825
 fee_list: [["Freelancers", "$120"],
            ["Corporate", "$250"]]
 published: true
