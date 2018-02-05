@@ -23,6 +23,7 @@ body {
     background-color: #fff;
 }
 
+
 .title-and-button {
   -ms-box-orient: horizontal;
   display: -webkit-box;
@@ -38,7 +39,39 @@ body {
     border-bottom: 2px solid $brand-color;
 }
 
+.feature-image {
+    .post-link {
+        color: $feature-image-text-color;
+    }
+
+    .post-content {
+        header {
+            color: black;
+            margin-bottom: 0;
+            padding: 0px;
+            text-align: center;
+
+        }
+
+        header h1, header .post-link, header .meta {
+            color: black;
+        }
+        .post-teaser {
+            padding: 5% 5%;
+        }
+
+        .post-teaser > span h1 {
+            text-align: center;
+        }
+    }
+
+}
+
 .posts {
+
+    .post-teaser {
+        border: none;
+    }
 
     .post-teaser .post-img {
             vertical-align: middle;
