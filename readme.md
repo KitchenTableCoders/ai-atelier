@@ -6,6 +6,8 @@ This repo holds the code for Kitchen Table Coder's **AI Atelier** website. The s
 
 You'll need [ruby](https://github.com/postmodern/chruby) configured on your system to build the site locally. Run `bin/server` to install dependencies and start an incremental build server. Navigate to [localhost:4000](http://127.0.0.1:4000) to view the site.
 
+Available to preview here: <http://kitchentablecoders.com/ai-atelier/>.
+
 ## CSS
 
 The site reads from `assets/css/main.scss`. Jekyll will take a look at the file name and render css from the Sass source.
@@ -19,7 +21,7 @@ The site reads from `assets/css/main.scss`. Jekyll will take a look at the file 
 
 ---
 
-# Official Docs: Type on Strap [![Build Status](https://travis-ci.org/Sylhare/Type-on-Strap.svg?branch=gh-pages)](https://travis-ci.org/Sylhare/Type-on-Strap)
+# Official Docs: Type on Strap
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra [type-theme](https://github.com/rohanchandra/type-theme) with a few new features:
 
