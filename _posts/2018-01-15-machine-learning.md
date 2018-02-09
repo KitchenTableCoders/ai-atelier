@@ -22,10 +22,9 @@ AI Atelier is a new workshop series for practicing software engineers with a foc
 
 # Dates
 
-**Saturday, March 03, 2018**: 9:00 AM – 5:00 PM
-**Sunday, March 04, 2018**: 9:00 AM – 5:00 PM
+**Saturday, March 03, 2018** &amp; **Sunday, March 04, 2018**
 
-Arrive 8:45 AM
+9:00 AM – 5:00 PM on both days. Doors open at 8:45 AM
 
 # Location
 
@@ -38,7 +37,9 @@ Subway: G Grand Stop
 
 # Tickets
 
-Cost includes admission to the two-day program: $1250.00 per person. Tickets include breakfast and lunch for both days.
+$1250.00 per person
+
+Cost is full admission to the two-day program. Breakfast and lunch are provided on both days.
 
 # FAQ
 
