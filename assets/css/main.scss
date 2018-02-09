@@ -144,6 +144,10 @@ h2.sub-header + h1 {
   margin-bottom: 1em;
 }
 
+.byline.post {
+      border: none;
+}
+
 .button {
   background-color: $brand-color;
   color: #FFF !important;
@@ -186,6 +190,10 @@ h2.sub-header + h1 {
   }
 }
 
+.post-button {
+    float: right;
+}
+
 .signup-button {
     text-align: right;
 }
@@ -210,4 +218,8 @@ h2.sub-header + h1 {
 #about-us h4 {
     margin: 0 0 0.5em 0;
     padding: 0;
+}
+
+div.clear {
+    clear: both;
 }

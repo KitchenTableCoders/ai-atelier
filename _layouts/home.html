@@ -29,19 +29,37 @@ registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-427
           </h1>
           <a class="button signup-button" href="{{ post.registration_url }}">Sign Up</a>
         </div>
+        <p class="meta">
+          {% case post.class_date.size %}
+          {% when 1 %}
+          {{ post.class_date.first | date: "%B %-d, %Y" }}
+          {% when 2 %}
+          {{ post.class_date.first | date: "%B %-d, %Y" }} - {{ post.class_date[1] | date: "%B %-d, %Y" }}
+          {% else %}
+          {{ post.class_date | date: "%B %-d, %Y" }}
+          {% endcase %}
+        </p>
+
         {% case post.instructor.size %}
         {% when 1 %}
-          <div class="byline">with <a href="#">{{ post.instructor.first }}</a></div>
+        <div class="byline">with <a href="#">{{ post.instructor.first }}</a></div>
         {% when 2 %}
-          <div class="byline">with <a href="#">{{ post.instructor.first }}</a> and <a href="#">{{ post.instructor[1] }}</a></div>
+        <div class="byline">with <a href="#">{{ post.instructor.first }}</a> and <a href="#">{{ post.instructor[1] }}</a></div>
         {% when 3 %}
-          <div class="byline">with <a href="#">{{ post.instructor.first }}</a>, <a href="#">{{ post.instructor[1] }}</a>, and <a href="#">{{ post.instructor[2] }}</a></div>
+        <div class="byline">with <a href="#">{{ post.instructor.first }}</a>, <a href="#">{{ post.instructor[1] }}</a>, and <a href="#">{{ post.instructor[2] }}</a></div>
         {% else %}
         {% endcase %}
       </header>
+
       <p>
-        {{ post.content | markdown }}
+        {{ post.content | markdown | truncate: "750" }}
       </p>
+        <div class="excerpt-footer">
+          <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+            {{ site.theme_settings.str_continue_reading }}
+          </a>
+        </div>
+
     </span>
   </div>
   {% endif %}

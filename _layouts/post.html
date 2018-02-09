@@ -5,11 +5,39 @@ layout: default
   <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h1>
     <p class="meta">
-    {{ page.date | date: "%B %-d, %Y" }}
+      {% case page.class_date.size %}
+        {% when 1 %}
+          {{ page.class_date.first | date: "%B %-d, %Y" }}
+        {% when 2 %}
+          {{ page.class_date.first | date: "%B %-d, %Y" }} - {{ page.class_date[1] | date: "%B %-d, %Y" }}
+        {% else %}
+          {{ page.class_date | date: "%B %-d, %Y" }}
+        {% endcase %}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
-  <section class="post-content">{{ content }}</section>
+
+  <div>
+    {% if page.upcoming %}
+        <a class="button signup-button post-button" href="{{ page.registration_url }}">Sign Up</a>
+    {% endif %}
+
+    {% case page.instructor.size %}
+        {% when 1 %}
+          <div class="byline post">with <a href="#">{{ page.instructor.first }}</a></div>
+        {% when 2 %}
+          <div class="byline post">with <a href="#">{{ page.instructor.first }}</a> and <a href="#">{{ page.instructor[1] }}</a></div>
+        {% when 3 %}
+          <div class="byline post">with <a href="#">{{ page.instructor.first }}</a>, <a href="#">{{ page.instructor[1] }}</a>, and <a href="#">{{ page.instructor[2] }}</a></div>
+        {% else %}
+        {% endcase %}
+  </div>
+
+  <div class="clear"></div>
+
+  <section class="post-content">
+    {{ content }}
+  </section>
 
    <!-- Tag list -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
