@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "/ai-atelier"
 assets:
-  baseurl: "/ai-atelier/assets"
-url: "http://kitchentablecoders.com/"
+  baseurl: "/assets"
+url: "https://ai-atelier.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -39,7 +38,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "ktcoders" # "twitter username"
+  twitter: "Atelier_AI" # "twitter username"
   vimeo:
   wordpress:
   youtube:
