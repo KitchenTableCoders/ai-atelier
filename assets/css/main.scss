@@ -17,8 +17,13 @@ $link-color: #507492; // #1ABC9C;
 $selection-color: #D4D4D4; // visible when highlighting text
 $blockquote-color: #EEF7FA; // $background-color;
 
+@font-face {
+  font-family: "Hurme";
+  src: url("../fonts/Hurme - HurmeGeometricSans1 Regular.otf");
+}
+
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-family: "Hurme", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     // font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #212529;
     background-color: #fff;
@@ -68,10 +73,16 @@ body {
 
 }
 
-.posts {
+.posts.embed {
+  .post-teaser {
+    padding: 40px 20%;
+  }
+}
 
+.posts {
     .post-teaser {
         border: none;
+        padding: 0px 20%;
     }
 
     .post-teaser .post-img {
