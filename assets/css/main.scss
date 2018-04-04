@@ -3,10 +3,11 @@
 @import "type-on-strap";
 @import "responsive-embed.scss";
 
-$header-link-color: #fff;
+$header-link-color: #333;
 $header-desc-background-color: #507492;
 
 // Brand colours
+$header-brand-color: #ccc;
 $brand-color: #2d8ca9;
 $background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
