@@ -216,12 +216,13 @@ h2.sub-header + h1 {
 
 #about-us img {
     margin-right: 1em;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
     padding: 0;
     float: left;
 }
 
 #about-us h3 {
+    clear: both;
     color: #999;
     margin: 0;
     padding: 0;

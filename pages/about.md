@@ -19,18 +19,9 @@ extreme attention to user-experience, specifically how technology can promote
 (or destroy) curiosity, literacy, and creativity.
     </p>
     <p>
-    As an artist, Amit develops novel instruments and methods for making music,
-animation, and dance. His work has been exhibited at the London Design Museum,
-Paris Pompidou Center, Lincoln Center, Israel National Museum, Sundance Film
-festival, Seoul Metropolitan Museum of Art, and ICC Museum in Tokyo.
-    </p>
-    <p>
     As an educator, Amit develops curricula that focus on the coupling of technology
 and the creative thought process. He taught at New York University’s ITP and
-Cooper Union’s Arts department. Interested in alternative education
-environments, Amit is also the co founder of Kitchen Table Coders, hosting
-intimate workshops/salons for people who are eager to expand their love for
-coding.
+Cooper Union’s Arts department. Amit is also the co-founder of Kitchen Table Coders.
     </p>
     <h3>David Nolen</h3>
     <h4>Adviser</h4>
@@ -47,6 +38,7 @@ workshop series in Brooklyn. He likes to play Go.
     </p>
     <h3>Kovas Boguta</h3>
     <h4>Instructor</h4>
+    <img width="200" src="{{ site.baseurl }}/assets/img/bios/kovas.jpg" />
     <p>
     Kovas Boguta has spent 15 years in scientific computing, data infrastructure,
 and machine learning roles. At Wolfram Research he helped build Mathematica and
