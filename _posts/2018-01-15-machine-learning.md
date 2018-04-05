@@ -4,8 +4,8 @@ category: class
 style: text
 title: Applied Deep Learning
 class_date:
-    - 2018-03-03
-    - 2018-03-04
+    - 2018-05-12
+    - 2018-05-13
 upcoming: true
 start: 9am
 end: 5pm
@@ -22,7 +22,7 @@ AI Atelier is a new workshop series for practicing software engineers with a foc
 
 # Dates
 
-**Saturday, March 03, 2018** &amp; **Sunday, March 04, 2018**
+**Saturday, May 12, 2018** &amp; **Sunday, May 13, 2018**
 
 9:00 AM – 5:00 PM on both days. Doors open at 8:45 AM
 
@@ -33,7 +33,7 @@ AI Atelier is a new workshop series for practicing software engineers with a foc
 274 Morgan Ave
 Brooklyn, NY 11238
 
-Subway: G Grand Stop
+Subway: L Grand Stop
 
 # Tickets
 
@@ -44,6 +44,8 @@ Cost is full admission to the two-day program. Breakfast and lunch are provided 
 # FAQ
 
 ## What Experience Do I Need Before I Show Up?
+
+1+ years of full-time programming experience. 
 
 You should have some experience with the following technologies:
 
