@@ -20,13 +20,13 @@ instructor:
 
 AI Atelier is a new workshop series for practicing software engineers with a focus on deep learning techniques. We believe that new machine learning methods will become an essential skill for the software engineer and this series is designed to give both practical foundations and hands on engineering experience. We deeply believe that computational thinking is a fundamentally creative endeavor and the series emphasizes intuition and innovation as much a technical capability. As the workshop series name implies our classes are crafted to give you a framework for building creative solutions to challenging problems. We have years of education experience from New York University, Parsons (The New School), Stanford University, (Columbia University) as well as years of training experience through Cognitect, and Kitchen Table Coders. This training initiative is advised by engineers currently working at Google Creative Labs, Twitter, and Cognitect.
 
-# Dates
+## Dates
 
 **Saturday, May 12, 2018** &amp; **Sunday, May 13, 2018**
 
 9:00 AM – 5:00 PM on both days. Doors open at 8:45 AM
 
-# Location
+## Location
 
 [Kitchen Table Coders](http://kitchentablecoders.com/)
 
@@ -35,15 +35,15 @@ Brooklyn, NY 11238
 
 Subway: L Grand Stop
 
-# Tickets
+## Tickets
 
 $1250.00 per person
 
 Cost is full admission to the two-day program. Breakfast and lunch are provided on both days.
 
-# FAQ
+## FAQ
 
-## What Experience Do I Need Before I Show Up?
+#### What Experience Do I Need Before I Show Up?
 
 1+ years of full-time programming experience. 
 
@@ -53,11 +53,11 @@ You should have some experience with the following technologies:
 - Git
 - Basic Knowledge of Python
 
-## What Do I Need To Bring?
+#### What Do I Need To Bring?
 
 Your laptop
 
-## What Software Do I Need?
+#### What Software Do I Need?
 
 - Python Installation >=2.7
 - Github Account

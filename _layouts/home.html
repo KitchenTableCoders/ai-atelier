@@ -50,7 +50,7 @@ registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-427
       </header>
 
       <p>
-        {{ post.content | markdown | truncate: "750" }}
+        {{ post.content | markdown }}
       </p>
         <div class="excerpt-footer">
           <a class="button" href="{{ post.url | prepend: site.baseurl }}">
