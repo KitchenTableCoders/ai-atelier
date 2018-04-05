@@ -7,6 +7,9 @@ tags:
 ---
 
 <div id="about-us">
+    
+    AI Atelier is a new workshop series for practicing software engineers with a focus on deep learning techniques. We believe that new machine learning methods will become an essential skill for the software engineer and this series is designed to give both practical foundations and hands on engineering experience. We deeply believe that computational thinking is a fundamentally creative endeavor and the series emphasizes intuition and innovation as much a technical capability. As the workshop series name implies our classes are crafted to give you a framework for building creative solutions to challenging problems. We have years of education experience from New York University, Parsons (The New School), Stanford University, (Columbia University) as well as years of training experience through Cognitect, and Kitchen Table Coders. This training initiative is advised by engineers currently working at Google Creative Labs, Twitter, and Cognitect.
+    
     <h3>Amit Pitaru</h3>
     <h4>Adviser</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/amit_pitaru.jpg" />
