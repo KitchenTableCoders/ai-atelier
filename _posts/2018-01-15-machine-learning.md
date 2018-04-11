@@ -18,15 +18,27 @@ instructor:
     - Evan Casey
 ---
 
-This workshop is a hands-on, project-based introduction to ML engineering using Tensorflow, for those with previous software engineering experience. 
+This workshop is a hands-on, project-based introduction to ML engineering using
+Tensorflow, for those with previous software engineering experience.
 
-This workshop will cover modelling and engineering topics necessary to start running your own experiments, productionizing models, and building mastery after leaving AI Atelier.
+This workshop will cover modelling and engineering topics necessary to start
+running your own experiments, productionizing models, and building mastery after
+leaving AI Atelier.
 
-Effective engineering requires fluency in the underlying software components. You will learn the fundamentals of the Tensorflow system, including tensor manipulation, layers, the Datasets API, eager execution, model serialization, and runtime options. 
+Effective engineering requires fluency in the underlying software components.
+You will learn the fundamentals of the Tensorflow system, including tensor
+manipulation, layers, the Datasets API, eager execution, model serialization,
+and runtime options.
 
-Good results require tuning your model and applying diagnostic tools. The workshop will build basic literacy, through examples and applications, of the foundational ML concepts necessary for effectiveness: optimization, neural networks, loss functions, and validation. 
+Good results require tuning your model and applying diagnostic tools. The
+workshop will build basic literacy, through examples and applications, of the
+foundational ML concepts necessary for effectiveness: optimization, neural
+networks, loss functions, and validation.
 
-Finally, understanding Tensorflow opens up a large and growing ecosystem of related tools, such as Tensorflow Extended, Tensorflow Hub, Tensorflow.js, etc. We will orient you to the broader ecosystem, so you know how it all fits together and what tool to use for your specific use case. 
+Finally, understanding Tensorflow opens up a large and growing ecosystem of
+related tools, such as Tensorflow Extended, Tensorflow Hub, Tensorflow.js, etc.
+We will orient you to the broader ecosystem, so you know how it all fits
+together and what tool to use for your specific use case.
 
 ## Dates
 
@@ -47,7 +59,8 @@ Subway: L Grand Stop
 
 $1250.00 per person
 
-Cost is full admission to the two-day program. Breakfast and lunch are provided on both days.
+Cost is full admission to the two-day program. Breakfast and lunch are provided
+on both days.
 
 ## FAQ
 
