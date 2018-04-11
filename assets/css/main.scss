@@ -101,7 +101,10 @@ body {
             padding: 0 15px;
         }
         .post-teaser header {
-            padding: 0.5em;
+            padding: 15px;
+        }
+        .post-teaser header p {
+            padding: 0;
         }
         .post-teaser .byline {
             margin-bottom: 0;
@@ -115,6 +118,10 @@ body {
         }
         .post-teaser ul {
             padding: 0 15px;
+        }
+        .excerpt-footer {
+            padding: 0 15px;
+            margin-bottom: 15px;
         }
     }
 
