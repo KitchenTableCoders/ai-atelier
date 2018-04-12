@@ -89,8 +89,15 @@
     @media (max-width: 576px) {
         nav {
             right: 1em;
-            bottom: 26px;
-            top: auto;
+            top: 26px;
+            z-index: 999;
+        }
+
+        .nav-menu {
+            background: white;
+            padding: 1em;
+            max-width: 150px;
+            box-shadow: 1px 1px 1px 1px #aaa;
         }
     }
 }
