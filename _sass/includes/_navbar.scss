@@ -40,6 +40,17 @@
         margin-bottom: 14px;
     }
 
+    @media (max-width: 576px) {
+        .avatar {
+            margin: 0;
+            width: 90px;
+            height: 90px;
+        }
+        .site-title {
+            font-size: 32px;
+        }
+    }
+
     nav {
         position: absolute;
         right: 10px;
@@ -72,6 +83,14 @@
 
             }
 
+        }
+    }
+
+    @media (max-width: 576px) {
+        nav {
+            right: 1em;
+            bottom: 26px;
+            top: auto;
         }
     }
 }
