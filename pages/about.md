@@ -37,7 +37,7 @@ to recommendations problems. His favorite cellular automaton is Rule 110.
     <h4>Evan Casey</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/evan_casey.jpg" />
     <p>
-    Evan Casey is an engineer and researcher interested in generative systems and the application of machine learning to visual creativity. He currently works on deep reinforcement learning for robotics at <a href="http://cogitai.com">Cogitai</a>. Previously he worked as a data engineer at <a href="http://tapad.com">Tapad</a> and is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a>. He is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
+    Evan Casey is an engineer and researcher interested in generative systems and the application of machine learning to skill learning and visual creativity. He currently works on deep reinforcement learning for robotics at <a href="http://cogitai.com">Cogitai</a>. Previously he worked as a data engineer at <a href="http://tapad.com">Tapad</a> and is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a>. He is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
     </p>
     
     <h3>Advisors</h3>
