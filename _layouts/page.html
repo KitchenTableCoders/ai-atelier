@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
-  <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+<article>
+  <header id="main">
+    {% if page.title %}
     <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
-        .
+    {{ page.title }}
     </h1>
-
+    {% endif %}
+    
     {% if page.subtitle %}
     <h2 class="subtitle">{{ page.subtitle }}</h2>
     {% endif %}
