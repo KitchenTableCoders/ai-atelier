@@ -12,20 +12,43 @@
         color: $header-link-color;
     }
 
-    .avatar {
-        float: left;
-        margin-top: -13px;
-        border-radius: 0.2em;
-        margin-right: 0.5em;
-        padding: 10px 10px;
+    .branding {
+        display: flex;
+    }
 
+    .branding a {
+        color: #3d65fb;
+    }
+
+    .branding h2 {
+        align-self: flex-end;
+        font-size: 32px;
+    }
+
+    .avatar {
+        width: 100px;
+        height: 100px;
+        padding: 1em;
+        margin-left: 0.5em;
     }
 
     .site-title {
-        float: left;
-        font-weight: bold;
-        font-size: 1em;
-        line-height: 1.5;
+        font-size: 42px;
+        font-family: "Hurme";
+        font-weight: normal;
+        align-self: flex-end;
+        margin-bottom: 14px;
+    }
+
+    @media (max-width: 576px) {
+        .avatar {
+            margin: 0;
+            width: 90px;
+            height: 90px;
+        }
+        .site-title {
+            font-size: 32px;
+        }
     }
 
     nav {
@@ -60,6 +83,21 @@
 
             }
 
+        }
+    }
+
+    @media (max-width: 576px) {
+        nav {
+            right: 1em;
+            top: 26px;
+            z-index: 999;
+        }
+
+        .nav-menu {
+            background: white;
+            padding: 1em;
+            max-width: 150px;
+            box-shadow: 1px 1px 1px 1px #aaa;
         }
     }
 }

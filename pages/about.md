@@ -10,7 +10,7 @@ tags:
 <div id="about-us">
 
    <p>
-   AI Atelier is a workshop series in New York City focused on deep learning. Our workshops enable people of all backgrounds to understand and build deep learning systems.
+   AI Atelier is a workshop series in New York City focused on enabling people of all backgrounds to understand and build deep learning systems.
     </p>
    <p>
    Deep learning is dramatically improving medicine, digital art, agriculture, transport and many other fields, with the greatest potential impact in the developing world. We believe these methods will become an essential skill for the software engineer and creator as we further unlock its vast potential.
@@ -24,7 +24,6 @@ tags:
     <p>
     We believe computational thinking is a fundamentally creative endeavor and the series emphasizes intuition and innovation as much a technical capability. Every workshop is project-based, and you will come away with a fully-functioning machine learning project.
     </p>
-
 
     <h3>Team</h3>
     <h4>David Nolen</h4>

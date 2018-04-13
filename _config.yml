@@ -7,7 +7,7 @@ url: "https://ai-atelier.com/"
 theme_settings:
   # Meta
   title: AI Atelier
-  avatar: assets/img/ai-atelier/logo_300w.png
+  avatar: assets/img/ai-atelier/logo_only_300w.png
   favicon: favicon.ico
   gravatar: # Email MD5 hash
   description: "Workshops on the craft of creative coding in all its forms" # used by search engines
