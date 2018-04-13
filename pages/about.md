@@ -4,12 +4,27 @@ title: About
 permalink: /about/
 feature-img: "assets/img/linked-list.png"
 tags:
+
 ---
 
 <div id="about-us">
+
    <p>
-    AI Atelier is a new workshop series for practicing software engineers with a focus on deep learning techniques. We believe that new machine learning methods will become an essential skill for the software engineer and this series is designed to give both practical foundations and hands on engineering experience. We deeply believe that computational thinking is a fundamentally creative endeavor and the series emphasizes intuition and innovation as much a technical capability. As the workshop series name implies our classes are crafted to give you a framework for building creative solutions to challenging problems. We have years of education experience from New York University, Parsons (The New School), Stanford University, (Columbia University) as well as years of training experience through Cognitect, and Kitchen Table Coders. This training initiative is advised by engineers currently working at Google Creative Labs, Twitter, and Cognitect.
+   AI Atelier is a workshop series in New York City focused on deep learning. Our workshops enable people of all backgrounds to understand and build deep learning systems.
     </p>
+   <p>
+   Deep learning is dramatically improving medicine, digital art, agriculture, transport and many other fields, with the greatest potential impact in the developing world. We believe these methods will become an essential skill for the software engineer and creator as we further unlock its vast potential.
+    </p>
+    <p>
+    At AI Atelier you will develop both practical foundations and hands on engineering experience. While you need to know how to program to attend AI Atelier, we’ve had students attend with as little as six months of programming experience and as much as 30 years of professional programming experience.
+    </p>
+    <p>
+    Our classes are crafted to give you a framework for applying deep learning to real world problems. While there are many online resources that focus solely on the theoretical underpinnings of AI, there are few that provide practical guidance on how to design, tune, debug, and build deep learning systems from the ground up.
+    </p>
+    <p>
+    We believe computational thinking is a fundamentally creative endeavor and the series emphasizes intuition and innovation as much a technical capability. Every workshop is project-based, and you will come away with a fully-functioning machine learning project.
+    </p>
+
 
     <h3>Team</h3>
     <h4>David Nolen</h4>
@@ -37,7 +52,7 @@ to recommendations problems. His favorite cellular automaton is Rule 110.
     <h4>Evan Casey</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/evan_casey.jpg" />
     <p>
-    Evan Casey is an engineer and researcher interested in generative systems and the application of machine learning to skill learning and visual creativity. He currently works on deep reinforcement learning for robotics at <a href="http://cogitai.com">Cogitai</a>. Previously he worked as a data engineer at <a href="http://tapad.com">Tapad</a> and is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a>. He is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
+    Evan Casey is an engineer and researcher interested in generative systems, new interfaces for machine learning, and autonomous skill learning. He currently works on deep reinforcement learning for robotics at <a href="http://cogitai.com">Cogitai</a>. Previously he worked as a data engineer at <a href="http://tapad.com">Tapad</a> and is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a>. He is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
     </p>
     
     <h3>Advisors</h3>
