@@ -29,18 +29,18 @@ Participants will learn to:
 - Tune a model
 - Deploy and integrate models
 
-The workshop is project-based, with ample time for practicing fundamentals,
-asking  questions, and exploring on one's own with the support of the
-instructors. Much of the time will be spent programming.
+The workshop is project-based, leading participants through completing a small but 
+deployable machine learning application centered around image recognition. 
 
-We will focus on image classifiers for our examples, but the fundamental skills
-developed are portable across many applications. 
+There will be ample time for practicing fundamentals, asking questions, and 
+exploring beyond the presented material. We want to help you interalize this
+material and make it your own. 
 
-We expect participants to leave having mastered a critical subset of
-the Tensorflow API: tensor manipulation, the graph, dataset IO, stacking
-modelling layers, eager mode, training, and model export. Knowing how to put
-these pieces together at a practical API level empowers the participant to
-start solving problems and experimenting with what works.
+Participants will master a critical subset of the Tensorflow API: tensor manipulation, 
+the graph, dataset IO, stacking modelling layers, eager mode, training, and model export. 
+
+Knowing how to put those pieces together at a practical API level empowers the 
+participant to start solving problems and experimenting with what works.
 
 Good results require tuning your model and applying diagnostic tools. The
 workshop will build basic literacy, through examples and applications, of the
