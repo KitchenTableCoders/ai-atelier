@@ -2,7 +2,7 @@
 layout: post
 category: class
 style: text
-title: Applied Deep Learning with Tensorflow
+title: Applied Deep Learning
 class_date:
     - 2018-05-12
     - 2018-05-13
@@ -19,29 +19,22 @@ instructor:
 ---
 
 
+This is a hands-on introduction to applied deep learning using [Tensorflow](https://www.tensorflow.org), 
+Google's open-source framework for machine learning. 
 
-This is a hands-on introduction to applied deep learning using Tensorflow.
-
-Tensorflow is a widely used open-source machine learning system, from Google.
-It powers many recent advances in both machine learning research and in
-practical applications.
-
-Participants will learn core skills for training & evaluating models, and for
-deploying machine-learning powered applications.
+Participants will learn to:
+- Program with the Tensorflow API
+- Create & train image recognition models
+- Diagnose and evaluate models 
+- Tune a model
+- Deploy and integrate models
 
 The workshop is project-based, with ample time for practicing fundamentals,
 asking  questions, and exploring on one's own with the support of the
 instructors. Much of the time will be spent programming.
 
-We will focus on CNN-based image classifiers for our examples, but lessons
-will apply to other deep learning architectures and machine learning problems.
-
-Participants will learn and practice the following:
-- How to program with the Tensorflow API
-- How to train their models
-- How to diagnose and evaluate their models
-- How to tune a model
-- How to deploy Tensorflow models
+We will focus on image classifiers for our examples, but the fundamental skills
+developed are portable across many applications. 
 
 We expect participants to leave having mastered a critical subset of
 the Tensorflow API: tensor manipulation, the graph, dataset IO, stacking
@@ -54,12 +47,12 @@ workshop will build basic literacy, through examples and applications, of the
 foundational ML concepts necessary for effectiveness: optimization, neural
 networks, loss functions, and validation.
 
-Finally, nothing helps getting stuff done like using the right libraries. The
-Tensorflow ecosystem is large and growing, with many off-the-shelf solutions
-for problems like sharing model components, preprocessing data, embedding in
-Big Data systems like Beam or Spark, mobile and web deployments, etc. We will
-orient you to the broader ecosystem, so you know how it all fits
-together and what tool to use for your specific use case.
+A big reason to choose Tensorflow over other ML frameworks is its integration 
+and deployment story. We will show you how to deploy Tensorflow models in 
+a service, and orient you to the broader integration options avalable in the
+extended Tensorflow ecosystem. 
+
+Lets have fun learning and building together!
 
 ## Dates
 
