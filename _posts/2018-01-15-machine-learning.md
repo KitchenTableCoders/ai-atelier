@@ -22,12 +22,16 @@ instructor:
 
 This is a hands-on introduction to applied deep learning using Tensorflow.
 
+Tensorflow is a widely used open-source machine learning system, from Google.
+It powers many recent advances in both machine learning research and in
+practical applications.
+
 Participants will learn core skills for training & evaluating models, and for
 deploying machine-learning powered applications.
 
 The workshop is project-based, with ample time for practicing fundamentals,
 asking  questions, and exploring on one's own with the support of the
-instructors. Much of the time will be spent programming. 
+instructors. Much of the time will be spent programming.
 
 We will focus on CNN-based image classifiers for our examples, but lessons
 will apply to other deep learning architectures and machine learning problems.
