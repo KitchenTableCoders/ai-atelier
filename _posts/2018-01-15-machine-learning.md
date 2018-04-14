@@ -80,9 +80,9 @@ on both days.
 
 #### What Experience Do I Need Before I Show Up?
 
-1+ years of full-time programming experience.
+Previous programming experience is necessary. 
 
-You should have some experience with the following technologies:
+You should also have some experience with the following technologies:
 
 - Terminal
 - Git
@@ -96,5 +96,5 @@ Your laptop
 
 - Python Installation >=2.7
 - Github Account
-- GCP Account
+- Google Cloud Platform (GCP) Account
 - Google Account (For [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true))
