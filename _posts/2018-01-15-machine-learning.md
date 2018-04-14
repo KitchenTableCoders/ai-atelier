@@ -2,7 +2,7 @@
 layout: post
 category: class
 style: text
-title: Applied Deep Learning
+title: Applied Deep Learning with Tensorflow
 class_date:
     - 2018-05-12
     - 2018-05-13
@@ -18,26 +18,43 @@ instructor:
     - Evan Casey
 ---
 
-This workshop is a hands-on, project-based introduction to ML engineering using
-Tensorflow, for those with previous software engineering experience.
 
-This workshop will cover modelling and engineering topics necessary to start
-running your own experiments, productionizing models, and building mastery after
-leaving AI Atelier.
 
-Effective engineering requires fluency in the underlying software components.
-You will learn the fundamentals of the Tensorflow system, including tensor
-manipulation, layers, the Datasets API, eager execution, model serialization,
-and runtime options.
+This is a hands-on introduction to applied deep learning using Tensorflow.
+
+Participants will learn core skills for training & evaluating models, and for
+deploying machine-learning powered applications.
+
+The workshop is project-based, with ample time for practicing fundamentals,
+asking  questions, and exploring on one's own with the support of the
+instructors. Much of the time will be spent programming. 
+
+We will focus on CNN-based image classifiers for our examples, but lessons
+will apply to other deep learning architectures and machine learning problems.
+
+Participants will learn and practice the following:
+- How to program with the Tensorflow API
+- How to train their models
+- How to diagnose and evaluate their models
+- How to tune a model
+- How to deploy Tensorflow models
+
+We expect participants to leave having mastered a critical subset of
+the Tensorflow API: tensor manipulation, the graph, dataset IO, stacking
+modelling layers, eager mode, training, and model export. Knowing how to put
+these pieces together at a practical API level empowers the participant to
+start solving problems and experimenting with what works.
 
 Good results require tuning your model and applying diagnostic tools. The
 workshop will build basic literacy, through examples and applications, of the
 foundational ML concepts necessary for effectiveness: optimization, neural
 networks, loss functions, and validation.
 
-Finally, understanding Tensorflow opens up a large and growing ecosystem of
-related tools, such as Tensorflow Extended, Tensorflow Hub, Tensorflow.js, etc.
-We will orient you to the broader ecosystem, so you know how it all fits
+Finally, nothing helps getting stuff done like using the right libraries. The
+Tensorflow ecosystem is large and growing, with many off-the-shelf solutions
+for problems like sharing model components, preprocessing data, embedding in
+Big Data systems like Beam or Spark, mobile and web deployments, etc. We will
+orient you to the broader ecosystem, so you know how it all fits
 together and what tool to use for your specific use case.
 
 ## Dates
@@ -66,7 +83,7 @@ on both days.
 
 #### What Experience Do I Need Before I Show Up?
 
-1+ years of full-time programming experience. 
+1+ years of full-time programming experience.
 
 You should have some experience with the following technologies:
 
