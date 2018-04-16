@@ -12,6 +12,21 @@ Available to preview here: <http://kitchentablecoders.com/ai-atelier/>.
 
 The site reads from `assets/css/main.scss`. Jekyll will take a look at the file name and render css from the Sass source.
 
+## Templates and Content
+
+Someday we'll clean this up. Until then, the templates in use are:
+
+- Templates (Layout)
+    - [http://ai-atelier.com/](http://ai-atelier.com/)
+        - `_layouts/home.html`: page specifics
+        - `_layouts/default`: `html` and `body` tags, header and footer includes
+    - [About](http://ai-atelier.com/about/): `_layouts/page.html`
+    - [Past Workshops](http://ai-atelier.com/previous/): `pages/previous.html`
+- Content
+    - [http://ai-atelier.com/](http://ai-atelier.com/): `_posts/2018-01-15-machine-learning.md`
+    - [About](http://ai-atelier.com/about/): `/pages/about.md`
+    - [Past Workshops](http://ai-atelier.com/previous/): `_posts/*.md`
+
 ## Theme Stuffs
 
 - Customize the theme
