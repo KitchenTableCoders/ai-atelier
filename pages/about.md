@@ -13,7 +13,7 @@ tags:
    AI Atelier is a workshop series in New York City focused on enabling people of all backgrounds to understand and build deep learning systems.
     </p>
    <p>
-   Deep learning is dramatically improving medicine, digital art, agriculture, transport and many other fields, with the greatest potential impact in the developing world. We believe these methods will become an essential skill for the software engineer and creator as we further unlock its vast potential.
+   Deep learning is dramatically improving medicine, art, agriculture, manufacturing and many other fields, with the greatest potential impact in the developing world. We believe these methods will become an essential skill for the software engineer and creator as we further unlock its vast potential.
     </p>
     <p>
     At AI Atelier you will develop both practical foundations and hands on engineering experience. While you need to know how to program to attend AI Atelier, we’ve had students attend with as little as six months of programming experience and as much as 30 years of professional programming experience.
