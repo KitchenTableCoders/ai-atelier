@@ -6,6 +6,9 @@ title: Applied Deep Learning
 class_date:
     - 2018-05-12
     - 2018-05-13
+class_date:
+    - 2018-05-12
+    - 2018-05-13
 upcoming: true
 start: 9am
 end: 5pm
@@ -21,13 +24,13 @@ instructor:
 
 This is a hands-on introduction to [deep learning](https://en.wikipedia.org/wiki/Deep_learning) using [Tensorflow](https://www.tensorflow.org), Google's open-source framework for machine learning. 
 
-The workshop is project-based, leading participants through a machine learning application centered around image recognition. 
+The workshop is project-based, leading participants through the process of building a machine learning-based image recognition application from scratch.
 
 ## Course Description
 
 Participants will master a critical subset of the Tensorflow API: tensor manipulation, the graph, dataset IO, stacking network layers, eager mode, training, and model export. Knowing how to put those pieces together at a practical API level empowers the participant to start solving problems and experimenting with what works.
 
-The workshop will build intuition and understanding, through examples and applications, of the foundational ML concepts necessary for effectiveness: optimization, neural networks, loss functions, and validation. You will also learn essential tips and tricks to get your model perform optimally: hyper-parameter tuning, data augmentation, architecture design, and filter visualization via deconvolution. 
+The workshop will build intuition and understanding, through examples and applications, of the foundational ML concepts necessary for effectiveness: optimization, convolutional neural networks, loss functions, and validation. You will also learn essential tips and tricks to get optimal model performance: hyper-parameter tuning, data augmentation, architecture design, and filter visualization via deconvolution. 
 
 There will be ample time for practicing fundamentals, asking questions, and exploring beyond the presented material. We are here to help you interalize this material, make it your own, and have fun while doing it!
 
@@ -35,16 +38,16 @@ There will be ample time for practicing fundamentals, asking questions, and expl
 
 While there are many deep learning frameworks out there, we believe Tensorflow offers a superior combination of [performance](https://www.tensorflow.org/performance), [ease-of-use](https://research.googleblog.com/2017/10/eager-execution-imperative-define-by.html), and [tooling](https://www.tensorflow.org/extend/), making it the **framework of choice** for most use cases. Tensorflow has the best [integration and deployment](https://www.tensorflow.org/serving) story of any framework, can be used with many different [platforms](https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/tensorflow) and [languages](https://js.tensorflow.org), and offers excellent utilities for [visualization](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard), [debugging](https://www.tensorflow.org/programmers_guide/debugger), and [monitoring](https://www.tensorflow.org/extend).
 
-We will show you how to deploy Tensorflow models in a service and use the most important tools in the Tensorflow ecosystem. 
+We will show you how to deploy Tensorflow models as a service and use the most important tools in the Tensorflow ecosystem. 
 
 #### Course Outline
 
 Participants will learn to:  
-- Program with the Tensorflow python API
+- Program with the Tensorflow [Python API](https://www.tensorflow.org/api_docs/python)
 - Create and train image recognition models
 - Diagnose, evaluate, and visualize models 
 - Tune a model and tweak your model architecture
-- Deploy and integrate pre-trained models
+- Deploy and integrate your trained models
 
 #### Who is this program for?
 
@@ -64,15 +67,15 @@ Saturday, May 12, 2018 &amp; Sunday, May 13, 2018
 **Session 2:**  
 Saturday, June 16, 2018 &amp; Sunday, June 17, 2018
 
-9:00 AM – 5:00 PM on both days. Doors open at 8:45 AM. On saturday evening there will be a social gathering if you would like to hang out with the instructors and other students in the space after the workshop hours.
+9:00 AM – 5:00 PM on both days. Doors open at 8:45 AM. On Saturday evening there will be a social gathering if you would like to hang out with the instructors and other students in the space after the workshop hours.
 
 #### Cost
 
 **Corporate:**  
-$1250.00 per person
+$1,250 per person
 
 **Artist/Student:**  
-$800.00 per person
+$800 per person
 
 Cost is full admission to the two-day program. Breakfast and lunch are provided
 on both days.
