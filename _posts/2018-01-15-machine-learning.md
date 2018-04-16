@@ -75,7 +75,7 @@ Saturday, June 16, 2018 &amp; Sunday, June 17, 2018
 **Corporate:**  
 $1,250 per person
 
-**Artist/Student:**  
+**Indie:**  
 $800 per person
 
 Cost is full admission to the two-day program. Breakfast and lunch are provided
