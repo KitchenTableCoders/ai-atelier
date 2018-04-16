@@ -6,15 +6,16 @@ title: Applied Deep Learning
 class_date:
     - 2018-05-12
     - 2018-05-13
-class_date:
-    - 2018-05-12
-    - 2018-05-13
+class_2_date:
+    - 2018-06-16
+    - 2018-06-17
 upcoming: true
 start: 9am
 end: 5pm
 location: Brooklyn, NY
 registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-42720051825
-fee_list: ["Corporate", "$1250"]
+registration_2_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-45215910004
+fee_list: ["Corporate", "$1250", "Indie", "$800"]
 published: true
 instructor:
     - Kovas Boguta
