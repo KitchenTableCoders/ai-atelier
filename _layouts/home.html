@@ -25,19 +25,21 @@ registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-427
               {{ post.title }}
             </a>
           </h1>
-          <a class="button signup-button" href="{{ post.registration_url }}">Sign Up</a>
+          
         </div>
-        <p class="meta">
-          {% case post.class_date.size %}
-          {% when 1 %}
-          {{ post.class_date.first | date: "%B %-d, %Y" }}
-          {% when 2 %}
-          {{ post.class_date.first | date: "%B %-d, %Y" }} - {{ post.class_date[1] | date: "%B %-d, %Y" }}
-          {% else %}
-          {{ post.class_date | date: "%B %-d, %Y" }}
-          {% endcase %}
+        <p class="signup">
+          <span>Sign up for</span>
+          <a class="button signup-button" href="{{ post.registration_url }}">
+            {{ post.class_date.first | date: "%B %-d, %Y" }} - {{ post.class_date[1] | date: "%B %-d, %Y" }}
+          </a>
+          <span>or</span>
+          {% if post.class_2_date %}
+          <a class="button signup-button" href="{{ post.registration_2_url }}">
+            {{ post.class_2_date.first | date: "%B %-d, %Y" }} - {{ post.class_2_date[1] | date: "%B %-d, %Y" }}
+          </a>
+          {% endif %}
         </p>
-
+        
         {% case post.instructor.size %}
         {% when 1 %}
         <div class="byline">with <a href="#">{{ post.instructor.first }}</a></div>

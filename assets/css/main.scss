@@ -149,10 +149,6 @@ body {
             h1 {
                 font-size: 1.5em;
             }
-
-            header .signup-button {
-              display: none;
-            }
         }
 
         @media screen and (min-width: $sm-break) {
@@ -257,11 +253,19 @@ h2.sub-header + h1 {
     float: right;
 }
 
+.signup {
+    margin: 1em 0;
+    line-height: 2.5em;
+}
+
 .signup-button {
     text-align: right;
+    padding: 2px 8px;
+    vertical-align: middle;
 }
 
 .excerpt-footer {
+    clear: both;
     padding-top: 20px;
 }
 
