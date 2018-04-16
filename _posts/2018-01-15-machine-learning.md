@@ -83,6 +83,8 @@ on both days.
 
 If you would like to attend but are unable to because of the cost, we offer a limited number of **need-based scholarships**. Send an email to [hello@kitchentablecoders.com](mailto:hello@kitchentablecoders.com) with a few sentences on your background and why you would like to attend this class. Priority will go to [underrepresented](https://www.nsf.gov/statistics/2017/nsf17310/digest/introduction/) groups, but we will consider everyone on a case-by-case basis.
 
+If you or your company is interested in sponsoring the event please get in touch [hello@kitchentablecoders.com](mailto:hello@kitchentablecoders.com). 
+
 #### Event Location
 
 [Kitchen Table Coders](http://kitchentablecoders.com/)
