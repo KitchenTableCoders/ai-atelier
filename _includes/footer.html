@@ -1,11 +1,27 @@
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">
-  <p class="text">{{ site.theme_settings.footer_text }}</p>
-            <div class="footer-icons">
-                <ul>
-                <!-- Social icons from Font Awesome, if enabled -->
-                {% include icons.html %}
-                </ul>
-            </div>
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+    <script type="text/javascript">
+        function mailChimpForm() {
+            require(["mojo/signup-forms/Loader"], function (L) {
+                L.start({
+                            "baseUrl": "mc.us18.list-manage.com",
+                            "uuid": "f0ae0e459a60a36caabbe8078",
+                            "lid": "24efd4dca7"
+                        })
+            })
+            document.cookie = "MCEvilPopupClosed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC";
+        };
+    </script>
+    <p class="text">{{ site.theme_settings.footer_text }}</p>
+    <p>
+        <a class="subscribe" href="javascript:mailChimpForm()">Subscribe to our mailing list for updates</a>
+    </p>
+    <div class="footer-icons">
+        <ul>
+            <!-- Social icons from Font Awesome, if enabled -->
+            {% include icons.html %}
+        </ul>
+    </div>
 </footer>
 {% endif %}
