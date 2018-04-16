@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Past Workshops
 permalink: /previous/
 feature-img: "assets/img/linked-list.png"
@@ -7,21 +7,33 @@ tags: [Workshops]
 hide: false
 ---
 
-<center>
-<h1>All previous workshops</h1>
-</center>
+<div class="workshops">
 
-<div class="posts">
-  {% for post in site.posts %}
-  {% if post.upcoming == false and post.categories contains 'class' %}
-  <div class="post-teaser">
-    {% if post.thumbnail %}
-    <div class="post-img">
-       <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
-    </div>
-    {% endif %}
+  <header id="main">
+    <center>
+      {% if page.title %}
+      <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
+        {{ page.title }}
+      </h1>
+      {% endif %}
 
-    <span>
+      {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+    </center>
+  </header>
+
+  <div class="posts">
+    {% for post in site.posts %}
+    {% if post.upcoming == false and post.categories contains 'class' %}
+    <div class="post-teaser">
+      {% if post.thumbnail %}
+      <div class="post-img">
+        <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
+      </div>
+      {% endif %}
+
+      <span>
         <header>
           <h1>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -33,15 +45,18 @@ hide: false
           </p>
         </header>
         <div class="excerpt">
-          {{ post.content | strip_html | truncate: "250" }}
+          {{ post.excerpt }}
         </div>
+
         <div class="excerpt-footer">
           <a class="button" href="{{ post.url | prepend: site.baseurl }}">
             {{ site.theme_settings.str_continue_reading }}
           </a>
         </div>
-    </span>
+      </span>
+    </div>
+    {% endif %}
+    {% endfor %}
   </div>
-  {% endif %}
-  {% endfor %}
+
 </div>
