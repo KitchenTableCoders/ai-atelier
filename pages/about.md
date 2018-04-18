@@ -46,7 +46,8 @@ and machine learning roles. At Wolfram Research he helped build Mathematica and
 Wolfram Alpha, and served as instructor at the Wolfram Science summer school. At
 Weebly, Kovas built out the Hadoop-based analytics infrastructure. At Twitter,
 Kovas helped develop the internal deep learning platform, and is now applying ML
-to recommendations problems. His favorite cellular automaton is Rule 110.
+to recommendations problems. His favorite cellular automaton is Rule 110. Kovas
+is active on twitter <a href="https://twitter.com/kovasb">@kovasb</a>.
     </p>
     <h4>Evan Casey</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/evan_casey.jpg" />
