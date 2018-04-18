@@ -13,7 +13,7 @@ tags:
    AI Atelier is a workshop series in New York City focused on enabling people of all backgrounds to understand and build deep learning systems.
     </p>
    <p>
-   Deep learning is dramatically improving [medicine](https://research.googleblog.com/2018/04/an-augmented-reality-microscope.html), [art](https://experiments.withgoogle.com/ai/nsynth-super), [agriculture](https://www.fastcompany.com/40464024/how-john-deeres-new-ai-lab-is-designing-farm-equipment-for-more-sustainable-future), [finance](https://vimeo.com/237834525) and many other fields. We believe these methods will become an essential skill for the software engineer and creator as we further unlock its vast potential.
+   Deep learning is dramatically improving <a href="https://research.googleblog.com/2018/04/an-augmented-reality-microscope.html">medicine</a>, <a href="https://experiments.withgoogle.com/ai/nsynth-super">art</a>, <a href="https://www.fastcompany.com/40464024/how-john-deeres-new-ai-lab-is-designing-farm-equipment-for-more-sustainable-future">agriculture</a>, <a href="https://vimeo.com/237834525">finance</a> and many other fields. We believe these methods will become an essential skill for the software engineer and creator as we further unlock its vast potential.
     </p>
     <p>
     At AI Atelier you will develop both practical foundations and hands on engineering experience. While you need to know how to program to attend AI Atelier, we’ve had students attend with as little as six months of programming experience and as much as 30 years of professional programming experience.
@@ -51,7 +51,7 @@ to recommendations problems. His favorite cellular automaton is Rule 110.
     <h4>Evan Casey</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/evan_casey.jpg" />
     <p>
-    Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works onautonomous skill learning for robots at <a href="http://cogitai.com">Cogitai</a>. Previously he worked as a data engineer at <a href="http://tapad.com">Tapad</a> and is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a>. He is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
+    Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works on autonomous skill learning for robotics at <a href="http://cogitai.com">Cogitai</a>. In the past he has worked on real-time ad bidding engines, recommendation systems, and large-scale data infrastructure. He is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a> and is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
     </p>
     
     <h3>Advisors</h3>

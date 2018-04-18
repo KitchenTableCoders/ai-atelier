@@ -52,7 +52,7 @@ Participants will learn to:
 
 #### Who is this program for?
 
-This workshop is for anyone who is interested in building deep learning systems with **previous programming experience**. Whether you are a software engineer interested in using deep learning at your job, a creator using deep learning on a new project, or a manager interested in defining your team's AI strategy, you will come away with newfound skills and knowledge to apply to your domain of choice.
+This workshop is for anyone who is interested in building deep learning systems with **previous programming experience**. Whether you are a software engineer interested in using deep learning at your job, a creator using deep learning on a new project, or a engineering manager interested in defining your team's AI strategy, you will come away with newfound skills and knowledge to apply to your domain of choice.
 
 You should also have some experience with programming in **python** and understand **basic linear algebra**. If you need a refresher on either of these requirements before the workshop, we recommend you take a look at this [this tutorial](https://web.stanford.edu/class/cs231a/section/section1.pdf).
 
@@ -110,4 +110,4 @@ Kovas Boguta has spent 15 years in scientific computing, data infrastructure, an
 #### Evan Casey
 
 <img width="200" src="/assets/img/bios/evan_casey.jpg" id="markdown-img">
-Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works onautonomous skill learning for robots at <a href="http://cogitai.com">Cogitai</a>. Previously he worked as a data engineer at <a href="http://tapad.com">Tapad</a> and is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a>. He is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
+Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works on autonomous skill learning for robotics at <a href="http://cogitai.com">Cogitai</a>. In the past he has worked on real-time ad bidding engines, recommendation systems, and large-scale data infrastructure. He is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a> and is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
