@@ -52,7 +52,7 @@ Participants will learn to:
 
 #### Who is this program for?
 
-This workshop is for anyone who is interested in building deep learning systems with **previous programming experience**. Whether you are a software engineer interested in using deep learning at your job, a creator using deep learning on a new project, or a engineering manager interested in defining your team's AI strategy, you will come away with newfound skills and knowledge to apply to your domain of choice.
+This workshop is for anyone who is interested in building deep learning systems with **previous programming experience**. Whether you are a software engineer interested in using deep learning at your job, a creator using deep learning on a new project, or an engineering manager interested in defining your team's AI strategy, you will come away with newfound skills and knowledge to apply to your domain of choice.
 
 You should also have some experience with programming in **python** and understand **basic linear algebra**. If you need a refresher on either of these requirements before the workshop, we recommend you take a look at this [this tutorial](https://web.stanford.edu/class/cs231a/section/section1.pdf).
 
