@@ -36,7 +36,8 @@ The Modern Museum of Art, and The New York Times. He is an international speaker
 on the usage of functional programming techniques to simplify software
 development practice. He is currently employed at Cognitect building systems for
 clients around the world. With Amit Pitaru he founded the Kitchen Table Coders
-workshop series in Brooklyn. He likes to play Go.
+workshop series in Brooklyn. He likes to play Go. David is active on Twitter <a
+href="https://twitter.com/eswannodette">@eswannodette</a>.
     </p>
     <h4>Kovas Boguta</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/kovas.jpg" />
@@ -47,7 +48,7 @@ Wolfram Alpha, and served as instructor at the Wolfram Science summer school. At
 Weebly, Kovas built out the Hadoop-based analytics infrastructure. At Twitter,
 Kovas helped develop the internal deep learning platform, and is now applying ML
 to recommendations problems. His favorite cellular automaton is Rule 110. Kovas
-is active on twitter <a href="https://twitter.com/kovasb">@kovasb</a>.
+is active on Twitter <a href="https://twitter.com/kovasb">@kovasb</a>.
     </p>
     <h4>Evan Casey</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/evan_casey.jpg" />
@@ -70,5 +71,6 @@ extreme attention to user-experience, specifically how technology can promote
     As an educator, Amit develops curricula that focus on the coupling of technology
 and the creative thought process. He taught at New York University’s ITP and
 Cooper Union’s Arts department. Amit is also the co-founder of Kitchen Table Coders.
+Amit is active on Twitter <a href="https://twitter.com/pitaru">@pitaru</a>.
     </p>
 </div>
