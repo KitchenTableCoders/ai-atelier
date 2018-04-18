@@ -4,23 +4,21 @@ layout: default
 <article>
   <header id="main">
     <h1 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h1>
-    <p class="meta">
-      {% case page.class_date.size %}
-        {% when 1 %}
-          {{ page.class_date.first | date: "%B %-d, %Y" }}
-        {% when 2 %}
-          {{ page.class_date.first | date: "%B %-d, %Y" }} - {{ page.class_date[1] | date: "%B %-d, %Y" }}
-        {% else %}
-          {{ page.class_date | date: "%B %-d, %Y" }}
-        {% endcase %}
-    {% if page.author %} - {{ page.author }}{% endif %}
+    <p class="signup">
+      <span>Sign up for</span>
+      <a class="button signup-button" href="{{ page.registration_url }}">
+        {{ page.class_date.first | date: "%B %-d, %Y" }} - {{ page.class_date[1] | date: "%B %-d, %Y" }}
+      </a>
+      <span>or</span>
+      {% if page.class_2_date %}
+      <a class="button signup-button" href="{{ page.registration_2_url }}">
+        {{ page.class_2_date.first | date: "%B %-d, %Y" }} - {{ page.class_2_date[1] | date: "%B %-d, %Y" }}
+      </a>
+      {% endif %}
     </p>
   </header>
 
   <div>
-    {% if page.upcoming %}
-        <a class="button signup-button post-button" href="{{ page.registration_url }}">Sign Up</a>
-    {% endif %}
 
     {% case page.instructor.size %}
         {% when 1 %}
