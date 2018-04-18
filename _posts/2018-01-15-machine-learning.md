@@ -6,15 +6,16 @@ title: Applied Deep Learning
 class_date:
     - 2018-05-12
     - 2018-05-13
-class_date:
-    - 2018-05-12
-    - 2018-05-13
+class_2_date:
+    - 2018-06-16
+    - 2018-06-17
 upcoming: true
 start: 9am
 end: 5pm
 location: Brooklyn, NY
 registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-42720051825
-fee_list: ["Corporate", "$1250"]
+registration_2_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-45215910004
+fee_list: ["Corporate", "$1250", "Indie", "$800"]
 published: true
 instructor:
     - Kovas Boguta
@@ -74,13 +75,15 @@ Saturday, June 16, 2018 &amp; Sunday, June 17, 2018
 **Corporate:**  
 $1,250 per person
 
-**Artist/Student:**  
+**Indie:**  
 $800 per person
 
 Cost is full admission to the two-day program. Breakfast and lunch are provided
 on both days.
 
 If you would like to attend but are unable to because of the cost, we offer a limited number of **need-based scholarships**. Send an email to [hello@kitchentablecoders.com](mailto:hello@kitchentablecoders.com) with a few sentences on your background and why you would like to attend this class. Priority will go to [underrepresented](https://www.nsf.gov/statistics/2017/nsf17310/digest/introduction/) groups, but we will consider everyone on a case-by-case basis.
+
+If you or your company is interested in sponsoring the event please get in touch [hello@kitchentablecoders.com](mailto:hello@kitchentablecoders.com). 
 
 #### Event Location
 

@@ -62,6 +62,7 @@ body {
         header h1, header .post-link, header .meta {
             color: black;
         }
+
         .post-teaser {
             padding: 5% 5%;
         }
@@ -147,10 +148,6 @@ body {
         @media (max-width: 576px) {
             h1 {
                 font-size: 1.5em;
-            }
-
-            header .signup-button {
-              display: none;
             }
         }
 
@@ -256,11 +253,19 @@ h2.sub-header + h1 {
     float: right;
 }
 
+.signup {
+    margin: 1em 0;
+    line-height: 2.5em;
+}
+
 .signup-button {
     text-align: right;
+    padding: 2px 8px;
+    vertical-align: middle;
 }
 
 .excerpt-footer {
+    clear: both;
     padding-top: 20px;
 }
 
@@ -279,6 +284,7 @@ h2.sub-header + h1 {
 }
 
 #about-us h4 {
+    clear: both;
     margin: 0 0 0.5em 0;
     padding: 0;
 }
@@ -292,4 +298,31 @@ h2.sub-header + h1 {
 
 div.clear {
     clear: both;
+}
+
+.subscribe {
+  margin: 1em;
+}
+
+.workshops {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    float: left;
+    width: 100%;
+
+    #main {
+        margin: 5% 20% 0% 20%;
+    }
+
+    .post-teaser {
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+}
+
+.workshops .post-teaser > span {
+    width: 100%;
+}
+
+.mc-modal {
+    width: 700px !important;
 }

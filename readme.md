@@ -17,11 +17,9 @@ The site reads from `assets/css/main.scss`. Jekyll will take a look at the file 
 Someday we'll clean this up. Until then, the templates in use are:
 
 - Templates (Layout)
-    - [http://ai-atelier.com/](http://ai-atelier.com/)
-        - `_layouts/home.html`: page specifics
-        - `_layouts/default`: `html` and `body` tags, header and footer includes
-    - [About](http://ai-atelier.com/about/): `_layouts/page.html`
-    - [Past Workshops](http://ai-atelier.com/previous/): `pages/previous.html`
+    - [http://ai-atelier.com/](http://ai-atelier.com/): `_layouts/home.html` > `_layouts/default`
+    - [About](http://ai-atelier.com/about/): `_layouts/page.html` > `_layouts/default`
+    - [Past Workshops](http://ai-atelier.com/previous/): `pages/previous.html` > `_layouts/default`
 - Content
     - [http://ai-atelier.com/](http://ai-atelier.com/): `_posts/2018-01-15-machine-learning.md`
     - [About](http://ai-atelier.com/about/): `/pages/about.md`
