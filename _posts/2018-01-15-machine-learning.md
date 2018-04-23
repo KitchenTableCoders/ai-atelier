@@ -31,13 +31,13 @@ The workshop is project-based, leading participants through the process of build
 
 Participants will master a critical subset of the Tensorflow API: tensor manipulation, the graph, dataset IO, stacking network layers, eager mode, training, and model export. Knowing how to put those pieces together at a practical API level empowers the participant to start solving problems and experimenting with what works.
 
-The workshop will build intuition and understanding, through examples and applications, of the foundational ML concepts necessary for effectiveness: optimization, convolutional neural networks, loss functions, and validation. You will also learn essential tips and tricks to get optimal model performance: hyper-parameter tuning, data augmentation, architecture design, and filter visualization via deconvolution. 
+The workshop will build intuition and understanding, through examples and applications, of the foundational ML concepts necessary for effectiveness: optimization, convolutional neural networks, loss functions, and validation. You will also learn essential tips and tricks to get optimal model performance: hyper-parameter tuning, data augmentation, architecture design, and filter visualization. 
 
 There will be ample time for practicing fundamentals, asking questions, and exploring beyond the presented material. We are here to help you interalize this material, make it your own, and have fun while doing it!
 
 #### Why Tensorflow?
 
-While there are many deep learning frameworks out there, we believe Tensorflow offers a superior combination of [performance](https://www.tensorflow.org/performance), [ease-of-use](https://research.googleblog.com/2017/10/eager-execution-imperative-define-by.html), and [tooling](https://www.tensorflow.org/extend/), making it the **framework of choice** for most use cases. Tensorflow has the best [integration and deployment](https://www.tensorflow.org/serving) story of any framework, can be used with many different [platforms](https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/tensorflow) and [languages](https://js.tensorflow.org), and offers excellent utilities for [visualization](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard), [debugging](https://www.tensorflow.org/programmers_guide/debugger), and [monitoring](https://www.tensorflow.org/extend).
+While there are many deep learning frameworks out there, Tensorflow's combinination of [performance](https://www.tensorflow.org/performance), [ease-of-use](https://research.googleblog.com/2017/10/eager-execution-imperative-define-by.html), and a [rich developer ecosystem](https://github.com/tensorflow/tensorflow) makes it an excellent choice for wide range of research and production use cases. Tensorflow has the best [integrated deployment story](https://www.tensorflow.org/serving) of any framework, can be used with many different [platforms](https://www.nvidia.com/en-us/data-center/gpu-accelerated-applications/tensorflow) and [languages](https://js.tensorflow.org), and offers best-in-class utilities for [visualization](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard), [debugging](https://www.tensorflow.org/programmers_guide/debugger), and [monitoring](https://www.tensorflow.org/extend).
 
 We will show you how to deploy Tensorflow models as a service and use the most important tools in the Tensorflow ecosystem. 
 
@@ -98,16 +98,16 @@ Subway: L Grand Stop
 
 The primary tool we will be using is [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true), a cloud-based notebook similar to [Jupyter](http://jupyter.org/) which offers free access to a Tesla K80 GPU.
 
-In order to participate in this workshop, all you will need is a **Google account** for Colaboratory and a **laptop**.
+In order to participate in this workshop, all you will need is a **Google account** for Colaboratory and a **laptop** with [Docker](https://docs.docker.com/install/#supported-platforms) installed.
 
 ## Instructors
 
 #### Kovas Boguta
 
 <img width="200" src="/assets/img/bios/kovas.jpg" id="markdown-img"> 
-Kovas Boguta has spent 15 years in scientific computing, data infrastructure, and machine learning roles. At Wolfram Research he helped build Mathematica and Wolfram Alpha, and served as instructor at the Wolfram Science summer school. At Weebly, Kovas built out the Hadoop-based analytics infrastructure. At Twitter, Kovas helped develop the internal deep learning platform, and is now applying ML to recommendations problems. His favorite cellular automaton is Rule 110.
+Kovas Boguta has spent 15 years in scientific computing, data infrastructure, and machine learning roles. At Wolfram Research he helped build Mathematica and Wolfram Alpha, and served as instructor at the Wolfram Science summer school. At Weebly, Kovas built out the Hadoop-based analytics infrastructure. At Twitter, Kovas helped develop the internal deep learning platform, and is now applying ML to recommendations problems. His favorite cellular automaton is Rule 110. Kovas is active on Twitter <a href="http://twitter.com/kovasb">@kovasb</a>.
 
 #### Evan Casey
 
 <img width="200" src="/assets/img/bios/evan_casey.jpg" id="markdown-img">
-Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works on autonomous skill learning for robotics at <a href="http://cogitai.com">Cogitai</a>. In the past he has worked on real-time ad bidding engines, recommendation systems, and large-scale data infrastructure. He is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a> and is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
+Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works on autonomous skill learning for robotics at <a href="http://cogitai.com">Cogitai</a>. In the past he has worked on real-time ad bidding engines, recommendation systems, and large-scale data infrastructure. He is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a> and is an avid skateboarder and surfer. Evan is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.

@@ -53,7 +53,7 @@ is active on Twitter <a href="https://twitter.com/kovasb">@kovasb</a>.
     <h4>Evan Casey</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/evan_casey.jpg" />
     <p>
-    Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works on autonomous skill learning for robotics at <a href="http://cogitai.com">Cogitai</a>. In the past he has worked on real-time ad bidding engines, recommendation systems, and large-scale data infrastructure. He is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a> and is an avid skateboarder and surfer. He blogs at <a href="http://ev.ancasey.com/">ev.ancasey</a> and is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
+    Evan Casey is an engineer and researcher interested in generative systems and reinforcement learning. He currently works on autonomous skill learning for robotics at <a href="http://cogitai.com">Cogitai</a>. In the past he has worked on real-time ad bidding engines, recommendation systems, and large-scale data infrastructure. He is an alumnus of the <a href="http://recurse.com">Recurse Center</a> and <a href="http://hackny.org">HackNY</a> and is an avid skateboarder and surfer. Evan is active on twitter <a href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
     </p>
     
     <h3>Advisors</h3>
