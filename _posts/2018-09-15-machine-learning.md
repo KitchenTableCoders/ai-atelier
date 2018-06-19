@@ -168,6 +168,8 @@ Center</a> and <a href="http://hackny.org">HackNY</a> and is an avid
 skateboarder and surfer. Evan is active on twitter <a
 href="https://twitter.com/ev_ancasey">@ev_ancasey</a>.
 
+<br/>
+
 #### David Nolen
 
 <img width="200" src="/assets/img/bios/david_nolen.png" id="markdown-img"> 
