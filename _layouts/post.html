@@ -9,8 +9,8 @@ layout: default
       <a class="button signup-button" href="{{ page.registration_url }}">
         {{ page.class_date.first | date: "%B %-d, %Y" }} - {{ page.class_date[1] | date: "%B %-d, %Y" }}
       </a>
-      <span>or</span>
       {% if page.class_2_date %}
+      <span>or</span>
       <a class="button signup-button" href="{{ page.registration_2_url }}">
         {{ page.class_2_date.first | date: "%B %-d, %Y" }} - {{ page.class_2_date[1] | date: "%B %-d, %Y" }}
       </a>

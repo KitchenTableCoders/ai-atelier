@@ -37,7 +37,7 @@ on the usage of functional programming techniques to simplify software
 development practice. He is currently employed at Cognitect building systems for
 clients around the world. With Amit Pitaru he founded the Kitchen Table Coders
 workshop series in Brooklyn. He likes to play Go. David is active on Twitter <a
-href="https://twitter.com/eswannodette">@eswannodette</a>.
+href="https://twitter.com/swannodette">@swannodette</a>.
     </p>
     <h4>Kovas Boguta</h4>
     <img width="200" src="{{ site.baseurl }}/assets/img/bios/kovas.jpg" />

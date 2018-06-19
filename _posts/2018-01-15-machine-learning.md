@@ -9,7 +9,7 @@ class_date:
 class_2_date:
     - 2018-06-16
     - 2018-06-17
-upcoming: true
+upcoming: false
 start: 9am
 end: 5pm
 location: Brooklyn, NY

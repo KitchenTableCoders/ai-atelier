@@ -32,8 +32,8 @@ registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-427
           <a class="button signup-button" href="{{ post.registration_url }}">
             {{ post.class_date.first | date: "%B %-d, %Y" }} - {{ post.class_date[1] | date: "%B %-d, %Y" }}
           </a>
-          <span>or</span>
           {% if post.class_2_date %}
+          <span>or</span>
           <a class="button signup-button" href="{{ post.registration_2_url }}">
             {{ post.class_2_date.first | date: "%B %-d, %Y" }} - {{ post.class_2_date[1] | date: "%B %-d, %Y" }}
           </a>
@@ -52,13 +52,13 @@ registration_url: https://www.eventbrite.com/e/applied-deep-learning-tickets-427
       </header>
 
       <p>
-        {{ post.content | markdown }}
+        {{ post.summary | markdown }}
       </p>
-        <div class="excerpt-footer">
-          <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-            {{ site.theme_settings.str_continue_reading }}
-          </a>
-        </div>
+      <div class="excerpt-footer">
+        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+          {{ site.theme_settings.str_continue_reading }}
+        </a>
+      </div>
 
     </span>
   </div>
