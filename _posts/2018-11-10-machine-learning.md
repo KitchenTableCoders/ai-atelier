@@ -4,8 +4,8 @@ category: class
 style: text
 title: Applied Deep Learning
 class_date:
-    - 2018-09-15
-    - 2018-09-16
+    - 2018-11-10
+    - 2018-11-11
 upcoming: true
 start: 9am
 end: 5pm
@@ -95,22 +95,9 @@ understand **basic linear algebra**. If you need a refresher on either of these
 requirements before the workshop, we recommend you take a look at this [this
 tutorial](https://web.stanford.edu/class/cs231a/section/section1.pdf).
 
-## Details
-
 #### Schedule
 
-This workshop will be offered twice, with the same content both times. Both
-session dates are listed below.
-
-**Session 1:**  
-Saturday, May 12, 2018 &amp; Sunday, May 13, 2018
-
-**Session 2:**  
-Saturday, June 16, 2018 &amp; Sunday, June 17, 2018
-
-9:00 AM – 5:00 PM on both days. Doors open at 8:45 AM. On Saturday evening there
-will be a social gathering if you would like to hang out with the instructors
-and other students in the space after the workshop hours.
+9:00 AM – 5:00 PM on both days. Doors open at 8:45 AM.
 
 #### Cost
 
