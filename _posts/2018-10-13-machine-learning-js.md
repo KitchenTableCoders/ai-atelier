@@ -130,12 +130,7 @@ Subway: L Grand Stop
 
 #### What should I bring?
 
-The primary tool we will be using is
-[Glitch](https://glitch.com).
-
-In order to participate in this workshop, all you will need is a **Google
-account** for Colaboratory and a **laptop** with
-[Docker](https://docs.docker.com/install/#supported-platforms) installed.
+Bring a laptop!
 
 ## Instructors
 
